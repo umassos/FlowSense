@@ -1,6 +1,8 @@
 # FlowSense
 
-Datasets - arduino, smartphone
+Datasets - Arduino, Smartphone
 
 
-Codes - arduino, smartphone
+Codes - Arduino, Smartphone
+
+Evaluation - Arduino, Smartphone
