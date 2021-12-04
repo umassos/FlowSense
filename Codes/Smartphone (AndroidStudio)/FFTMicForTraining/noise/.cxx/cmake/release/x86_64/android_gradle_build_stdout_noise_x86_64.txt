@@ -1,0 +1,5 @@
+ninja: Entering directory `/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/release/x86_64'
+[1/4] Building C object CMakeFiles/noise.dir/src/main/native/kissfft/tools/kiss_fftr.c.o
+[2/4] Building C object CMakeFiles/noise.dir/src/main/native/noise.c.o
+[3/4] Building C object CMakeFiles/noise.dir/src/main/native/kissfft/kiss_fft.c.o
+[4/4] Linking C shared library ../../../../build/intermediates/cmake/release/obj/x86_64/libnoise.so

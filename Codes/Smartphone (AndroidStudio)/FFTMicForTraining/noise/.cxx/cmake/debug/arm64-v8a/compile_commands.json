@@ -1,0 +1,19 @@
+[
+{
+  "directory": "C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\adaml\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/adaml/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/adaml/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnoise_EXPORTS -I../../../../src/main/native/kissfft -I../../../../src/main/native/kissfft/tools  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\noise.dir\\src\\main\\native\\noise.c.o   -c C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FFTMicForTraining\\noise\\src\\main\\native\\noise.c",
+  "file": "C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/src/main/native/noise.c"
+},
+
+{
+  "directory": "C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\adaml\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/adaml/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/adaml/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnoise_EXPORTS -I../../../../src/main/native/kissfft -I../../../../src/main/native/kissfft/tools  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\noise.dir\\src\\main\\native\\kissfft\\kiss_fft.c.o   -c C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FFTMicForTraining\\noise\\src\\main\\native\\kissfft\\kiss_fft.c",
+  "file": "C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/src/main/native/kissfft/kiss_fft.c"
+},
+
+{
+  "directory": "C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\adaml\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/adaml/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/adaml/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnoise_EXPORTS -I../../../../src/main/native/kissfft -I../../../../src/main/native/kissfft/tools  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\noise.dir\\src\\main\\native\\kissfft\\tools\\kiss_fftr.c.o   -c C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FFTMicForTraining\\noise\\src\\main\\native\\kissfft\\tools\\kiss_fftr.c",
+  "file": "C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/src/main/native/kissfft/tools/kiss_fftr.c"
+}
+]

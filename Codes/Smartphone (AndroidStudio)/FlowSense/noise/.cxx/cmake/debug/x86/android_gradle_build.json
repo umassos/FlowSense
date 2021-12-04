@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\adaml\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\.cxx\\cmake\\debug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\adaml\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\.cxx\\cmake\\debug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "noise-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\adaml\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\.cxx\\cmake\\debug\\x86",
+        "noise"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "noise",
+      "output": "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnoise.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

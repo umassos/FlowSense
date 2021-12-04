@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\adaml\Documents\GitHub\Healthy-Air\Measuring-Airflow\FlowSense\noise\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

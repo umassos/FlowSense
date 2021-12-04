@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jpmml:pmml-model:1.5.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-model/1.5.15/5d2351bd90502856510157cb9ef45c60572b980/pmml-model-1.5.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-model/1.5.15/c5d7fbf864685e1d9b5fc563a5531898969cf085/pmml-model-1.5.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-model/1.5.15/d3f5dcb7b9811e9ec53233a6e09eaf3779602329/pmml-model-1.5.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

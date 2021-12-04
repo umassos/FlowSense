@@ -1,0 +1,3 @@
+C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/debug/x86_64/CMakeFiles/noise.dir
+C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

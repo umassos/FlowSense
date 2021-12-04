@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jpmml:pmml-agent:1.5.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-agent/1.5.15/3b84424a4a8dfa82f9b6965c7f8f9c59ed28fc44/pmml-agent-1.5.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-agent/1.5.15/883e23574256ec058cfaedbe5820971a638c8f13/pmml-agent-1.5.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-agent/1.5.15/d6cd930361d30f072ae34101c85d660b9706c4e3/pmml-agent-1.5.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

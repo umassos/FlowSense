@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlowSense</string>
+    <string name="About">About</string>
+    <string name="cmd_start">  Start Logging  </string>
+    <string name="cmd_stop">  Stop Logging  </string>
+</resources>

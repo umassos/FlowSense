@@ -1,0 +1,23 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a",
+    "file": "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\adaml\\Documents\\GitHub\\Healthy-Air\\Measuring-Airflow\\FlowSense\\noise\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

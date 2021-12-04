@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jpmml:pmml-model-metro:1.5.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-model-metro/1.5.15/a5063e6214b95fb1eb999d7390f79948b6a49d1b/pmml-model-metro-1.5.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-model-metro/1.5.15/97e0d4e202ffb1f1c6454fb2fa6f097e7c80b6e8/pmml-model-metro-1.5.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-model-metro/1.5.15/b174c65b1a237f0e60622f33e903eb4efcf5c0cc/pmml-model-metro-1.5.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

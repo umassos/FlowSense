@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/adam/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/release/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/adam/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/release/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "noise-Release-x86_64": {
+      "buildCommandComponents": [
+        "/home/adam/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/release/x86_64",
+        "noise"
+      ],
+      "buildType": "release",
+      "abi": "x86_64",
+      "artifactName": "noise",
+      "output": "/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/build/intermediates/cmake/release/obj/x86_64/libnoise.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

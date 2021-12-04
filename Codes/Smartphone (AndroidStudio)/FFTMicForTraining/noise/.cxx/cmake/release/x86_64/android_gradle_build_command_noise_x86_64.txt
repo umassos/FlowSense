@@ -1,0 +1,7 @@
+Executable : /home/adam/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMicForTraining/noise/.cxx/cmake/release/x86_64
+noise
+jvmArgs : 
+

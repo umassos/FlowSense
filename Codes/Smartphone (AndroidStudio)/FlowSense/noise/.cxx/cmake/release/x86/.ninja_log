@@ -1,0 +1,5 @@
+# ninja log v5
+0	50	1627503541	CMakeFiles/noise.dir/src/main/native/noise.c.o	257d714c2c2ed6ee
+0	50	1627503541	CMakeFiles/noise.dir/src/main/native/kissfft/tools/kiss_fftr.c.o	8e18222292550289
+0	125	1627503541	CMakeFiles/noise.dir/src/main/native/kissfft/kiss_fft.c.o	ad9de5f9ab6cdc76
+125	137	1627503541	../../../../build/intermediates/cmake/release/obj/x86/libnoise.so	8cca925ecec6b447

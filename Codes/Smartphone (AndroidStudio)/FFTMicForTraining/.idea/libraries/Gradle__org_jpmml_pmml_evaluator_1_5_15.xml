@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jpmml:pmml-evaluator:1.5.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-evaluator/1.5.15/ed6f8eb5f134866b41dd98062d08b79c4f7df124/pmml-evaluator-1.5.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-evaluator/1.5.15/6965f023f6b031cb7c33ebfcf96ff8e05d927dac/pmml-evaluator-1.5.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jpmml/pmml-evaluator/1.5.15/a8da2d971693386b88f4c7b687fb8248ce55a84a/pmml-evaluator-1.5.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

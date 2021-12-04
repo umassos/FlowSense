@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-29</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60b695c2-03d6-4a33-a4d2-1ba8014aa35d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/6FeatflowClassifer.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_225_O_P1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_225_U_P1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_225_U_P2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_225_U_P3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_225_U_P4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_225_U_P4_AIRFLOW.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_2_O_P1_INHAND.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_50_O_P1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Silence Detection/RealWorld/fft_50_U_P1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/Graphs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/Graphs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/Model4_error_bars_MSE_OTHERVENTS.png" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/Model4_error_bars_MSE_OTHERVENTS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/Noise-Study/fft_2_people.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Silence Detection/Noise-Study/fft_2_people.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/Noise-Study/fft_3_people.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Silence Detection/Noise-Study/fft_3_people.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/adamAirClassifierALL6Feat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/adamAirClassifierALL6Feat.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/adamModel5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/adamModel5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/adamRealWorld.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/adamRealWorld.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/bar_plot_with_error_bars.png" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowSense_Evaluation/Smartphone-Case-study/bar_plot_with_error_bars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Silence Detection/SilenceDetector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Silence Detection/SilenceDetector.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Silence Detection/adamSilenceAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Silence Detection/adamSilenceAnalysis.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/AndroidStudioProjects/key0.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vgNqkzzFJE7CRk5brgxzl75nZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="FFTMic.sample" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SerialNumber@LMQ710TSbeefd820" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-08-09T21:31:02.149731Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/sample" />
+    <property name="ExportApk.BuildVariants" value="develRelease" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/FFTMic/sample/src/main/java/com/paramsen/noise/sample/view/AudioView.kt_SELECTED" value="AudioView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/FFTMic/sample/src/main/java/com/paramsen/noise/sample/view/FFTBandView.kt_SELECTED" value="FFTBandView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/FFTMic/sample/src/main/java/com/paramsen/noise/sample/view/FFTSpectogramView.kt_SELECTED" value="FFTSpectogramView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/FFTMic/sample/src/main/java/com/paramsen/noise/sample/view/InfoView.kt_SELECTED" value="InfoView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/FFTMic/sample/src/main/java/com/paramsen/noise/sample/view/SimpleSurface.kt_SELECTED" value="SimpleSurface" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/AudioView.kt_SELECTED" value="AudioView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/FFTBandView.kt_SELECTED" value="FFTBandView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/FFTSpectogramView.kt_SELECTED" value="FFTSpectogramView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/InfoView.kt_SELECTED" value="InfoView" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/SimpleSurface.kt_SELECTED" value="SimpleSurface" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/SimpleSurface.kt_SimpleSurface_DIMENSIONS" value="890&#10;1300" />
+    <property name="android-custom-view/home/adam/AndroidStudioProjects/noise/sample/src/main/java/com/paramsen/noise/sample/view/TipView.kt_SELECTED" value="TipView" />
+    <property name="android-custom-view/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMic/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/AudioView.kt_SELECTED" value="AudioView" />
+    <property name="android-custom-view/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMic/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTAirView.kt_SELECTED" value="FFTAirView" />
+    <property name="android-custom-view/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMic/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTBandView.kt_SELECTED" value="FFTBandView" />
+    <property name="android-custom-view/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMic/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTSpectogramView.kt_SELECTED" value="FFTSpectogramView" />
+    <property name="android-custom-view/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMic/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/InfoView.kt_SELECTED" value="InfoView" />
+    <property name="android-custom-view/home/adam/Documents/GitHub/Healthy-Air/Measuring-Airflow/FFTMic/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/SimpleSurface.kt_SELECTED" value="SimpleSurface" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/AudioView.kt_AudioView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/AudioView.kt_SELECTED" value="AudioView" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTAirView.kt_FFTAirView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTAirView.kt_SELECTED" value="FFTAirView" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTBandView.kt_FFTBandView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/FFTBandView.kt_SELECTED" value="FFTBandView" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/SimpleSurface.kt_SELECTED" value="SimpleSurface" />
+    <property name="android-custom-viewC:/Users/adaml/Documents/GitHub/Healthy-Air/Measuring-Airflow/FlowSense/sample/src/main/java/edu/umasslass/healthyair/fftmic/view/SimpleSurface.kt_SimpleSurface_DIMENSIONS" value="1080&#10;1920" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1628639625634" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="TARGET_MODULES_MINIMIZE" value="true" />
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="edu.umasslass.healthyair.fftmic.view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sample/libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.sample">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sample" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="FlowSense.sample" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flowSense.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/sample/libs/flowSense.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.flowSense.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b695c2-03d6-4a33-a4d2-1ba8014aa35d" name="Default Changelist" comment="" />
+      <created>1626979966464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626979966464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
