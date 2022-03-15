@@ -15,12 +15,12 @@
 
 ## How to Run
 
-# Fixed Module
+### Fixed Module
 
 FlowSense has two ML models - regression (to predict rate of airflow) and classification (to predict vent status). To run the Fixed module code, run the [Gradient_boosting_regression.ipynb](https://github.com/umassos/FlowSense/blob/main/Codes/Fixed_module/Python_training_codes/Gradient_boosting_regression.ipynb) or  [Gradient_boosting_classification.ipynb](https://github.com/umassos/FlowSense/blob/main/Codes/Fixed_module/Python_training_codes/Gradient_boosting_classification.ipynb) notebooks. This will train the regressor or classifier model and save it. The trained model for regressor and classifier are already saved as flowSense_regression.joblib and flowSense_classifier.joblib and can directly be used to predict the rate of airflow or vent status given a test sample.
 
 
-# Smartphone setup
+### Smartphone setup
 
 ## Citing this work
 
