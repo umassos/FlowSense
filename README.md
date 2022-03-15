@@ -19,5 +19,6 @@
 ## Citing this work
 
 FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing 
+
 Bhawana Chhaglani, Camellia Zakaria, Adam Lechowicz, Prashant Shenoy, Jeremy Gummeson
 ACM IMWUT 2022 
