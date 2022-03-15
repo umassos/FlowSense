@@ -1,7 +1,7 @@
 # FlowSense
 
 
-_FlowSense_ is available in two versions: Fixed module (Arduino) setup and Smartphone application. 
+[_FlowSense_ ](https://sites.google.com/umass.edu/flowsense) is available in two versions: Fixed module (Arduino) setup and Smartphone application. 
 
 ## Project Directory Tree
 - **Codes** 
@@ -17,3 +17,7 @@ _FlowSense_ is available in two versions: Fixed module (Arduino) setup and Smart
 
 
 ## Citing this work
+
+FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing 
+Bhawana Chhaglani, Camellia Zakaria, Adam Lechowicz, Prashant Shenoy, Jeremy Gummeson
+ACM IMWUT 2022 
