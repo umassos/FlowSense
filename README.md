@@ -38,8 +38,15 @@ Additionally, note that the .joblib file of our saved model is not directly comp
 
 ## Citing this work
 
-FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing 
-
-Bhawana Chhaglani, Camellia Zakaria, Adam Lechowicz, Prashant Shenoy, Jeremy Gummeson
-
-ACM IMWUT 2022 
+```
+@article{chhaglani2022flowsense,
+  title={FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing},
+  author={Chhaglani, Bhawana and Zakaria, Camellia and Lechowicz, Adam and Gummeson, Jeremy and Shenoy, Prashant},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={6},
+  number={1},
+  pages={1--26},
+  year={2022},
+  publisher={ACM New York, NY, USA}
+}
+```
